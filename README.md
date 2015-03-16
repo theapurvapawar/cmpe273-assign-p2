@@ -12,3 +12,5 @@ Implemented -
 Live Demo - http://54.153.109.144/store (The section after the Buy Button.)
 
 Deployed on Amazon EC2 (MEAN Stack Ecommerce Front-End Store and Order Management applications are on different instances as per requirement.)
+
+[Part 1] - https://github.com/theapurvapawar/cmpe273-assign-p1
