@@ -10,6 +10,7 @@ Implemented -
 - Used both Jersey/Jackson and Java Servlets for delivery. (with a bit of JQuery involved.)
 
 Live Demo - http://54.153.109.144/store (The section after the Buy Button.)
+[Update] - Instance stopped as I'm being charged for it.
 
 Deployed on Amazon EC2 (MEAN Stack Ecommerce Front-End Store and Order Management applications are on different instances as per requirement.)
 
